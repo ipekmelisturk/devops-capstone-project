@@ -112,6 +112,7 @@ def update_accounts(account_id):
 # DELETE AN ACCOUNT
 ######################################################################
 
+
 @app.route("/accounts/<int:account_id>", methods=["DELETE"])
 def delete_accounts(account_id):
     """It should Delete an Account"""

@@ -1,4 +1,6 @@
 # DevOps Capstone Project
+![Build Status](https://github.com/ipekmelisturk/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 
 This repository is final project for IBM DevOps course series.
 
